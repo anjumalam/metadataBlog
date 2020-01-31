@@ -10,7 +10,7 @@ The text files are stored in GitHub repositories (folders) that represent 25-yea
 
 We now have a new way to search for files in the OpenITI corpus: 
 
-[https://kitab-corpus-metadata.azurewebsites.net/](https://kitab-corpus-metadata.azurewebsites.net/)
+[https://kitab-corpus-metadata.azurewebsites.net/](https://kitab-corpus-metadata.azurewebsites.net/arabic-version.html)
 
 You can search the metadata of the entire corpus for author and title, in Arabic and ASCII transliteration. The new metadata search also allows filtering the corpus on the annotation status of the text. 
 
