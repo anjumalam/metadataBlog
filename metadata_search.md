@@ -8,24 +8,37 @@ The text files are stored in GitHub repositories (folders) that represent 25-yea
 
 ![OpenITI folder system](img/OpenITI_folder_system.png)
 
-We now have a new way to search for files in the OpenITI corpus: 
+## We now have a new way to search for files in the OpenITI corpus: 
 
 [https://kitab-corpus-metadata.azurewebsites.net/](https://kitab-corpus-metadata.azurewebsites.net/arabic-version.html)
 
 ![Metadata search page](img/Metadata_search_page.png)
 
-You can search the metadata of the entire corpus for author and title, in Arabic and ASCII transliteration. The new metadata search also allows filtering the corpus on the annotation status of the text. 
+### Searching and filtering
+
+You can search the metadata of the entire corpus for author and title, in Arabic and the simplified ASCII transliteration used in our URI system. You can also filter the metadata by tags, publishing houses, text collections, etc. by using the Search box in the top right of the screen. The metadata table can also be sorted by clicking on the arrows next to the column headers. 
+
+### Annotation status and primary/secondary texts
+
+For many texts, the OpenITI corpus contains different digital versions, which we got from different sources. We are currently working hard on adding structural annotation (chapters, paragraphs, dictionary entries, etc.) to the best digital version of every text in the corpus; we call this the "primary version" (PRI). The legend at the top of the page explains the symbols used for detailing the annotation status of the texts in the corpus. Clicking on one of the items in the legend will filter the metadata table, leaving only the texts with the selected annotation status visible.
 
 ![annotation status](img/annotation_status.png)
 
-With the ![primary books only button](img/primary_books_button.png) button, you can also choose to display only the primary texts, i.e., the “best” digital edition of every book in the corpus. 
+With the ![primary books only button](img/primary_books_button.png) button, you can also choose to display only the primary texts. 
 
-If you notice that there is a problem with a text’s URI, you can notify us by clicking the link at the bottom of each Author, Title and Version cell:
+### Notify us of issues with our texts!
+
+If you notice that there is a problem with a text’s URI, you can notify us by clicking the link at the bottom of each Author, Title and Version cells:
 
 ![book issue](img/title_issue.png)
 
-You can also notify us if you notice an issue with the quality of a text (e.g., if it is incomplete).
+You can also notify us if you notice an issue with the quality of a specific text version (e.g., if it is incomplete) in the Version column.
 
 ![version issue](img/version_issue.png)
 
-Happy searching!
+Finally, you can also alert us when you think that another version of the text deserves to be the primary version: 
+
+![primary/secondary issue](img/primary_issue.png)
+
+
+# Happy searching!
