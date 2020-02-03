@@ -20,9 +20,13 @@ You can search the metadata of the entire corpus for author and title, in Arabic
 
 ### Annotation status and primary/secondary texts
 
-For many texts, the OpenITI corpus contains different digital versions, which we got from different sources. We are currently working hard on adding structural annotation (chapters, paragraphs, dictionary entries, etc.) to the best digital version of every text in the corpus; we call this the "primary version" (PRI). The legend at the top of the page explains the symbols used for detailing the annotation status of the texts in the corpus. Clicking on one of the items in the legend will filter the metadata table, leaving only the texts with the selected annotation status visible.
+For many texts, the OpenITI corpus contains different digital versions, which we got from different sources. We are currently working hard on adding structural annotation (chapters, paragraphs, dictionary entries, etc.) to the best digital version of every text in the corpus; we call this the "primary version" (PRI). 
+
+The legend at the top of the page explains the symbols used for detailing the annotation status of the texts in the corpus:
 
 ![annotation status](img/annotation_status.png)
+
+Clicking on one of the items in the legend will filter the metadata table, leaving only the texts with the selected annotation status visible.
 
 With the ![primary books only button](img/primary_books_button.png) button, you can also choose to display only the primary texts. 
 
@@ -40,7 +44,7 @@ Finally, you can also alert us when you think that another version of the text d
 
 ![primary/secondary issue](img/primary_issue.png)
 
-Clicking any of these links will bring you to a GitHub issue form (you'll need a GitHub account - you can create one [here](www.github.com)). Please follow the instructions in the form to complete it, and hit the "Submit new issue" button to send it off. 
+Clicking any of these links will bring you to a GitHub issue form (you'll need a GitHub account - you can create one [here](www.github.com)). Please follow the instructions in the form to complete it, and hit the "Submit new issue" button to send it off: 
 
 ![GitHub issue form](img/GithubIssueForm.png)
 
