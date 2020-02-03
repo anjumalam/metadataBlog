@@ -40,5 +40,8 @@ Finally, you can also alert us when you think that another version of the text d
 
 ![primary/secondary issue](img/primary_issue.png)
 
+Clicking any of these links will bring you to a GitHub issue form (you'll need a GitHub account - you can create one [here](www.github.com)). Please follow the instructions in the form to complete it, and hit the "Submit new issue" button to send it off. 
+
+![GitHub issue form](img/GithubIssueForm.png)
 
 # Happy searching!
